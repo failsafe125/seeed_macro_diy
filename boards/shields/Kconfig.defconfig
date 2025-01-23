@@ -1,6 +1,6 @@
-if SHIELD_GIGAPAD
+if SHIELD_JIMMYPAD
 
 config ZMK_KEYBOARD_NAME
-    default "jimmy_macropad"
+    default "JIMMYPAD"
 
 endif
