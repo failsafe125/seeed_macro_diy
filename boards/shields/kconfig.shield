@@ -1,2 +1,2 @@
-config SHIELD_GIGAPAD
-    def_bool $(shields_list_contains,jimmy_macropad)
+config SHIELD_JIMMYPAD
+    def_bool $(shields_list_contains,JIMMYPAD)
